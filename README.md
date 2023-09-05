@@ -16,7 +16,7 @@ To use the Tengo Discord bot, you need to set up a Discord application and bot, 
 
 2. Clone the repository to your local machine:
    ```
-   git clone https://github.com/elcruzo/discord-bot.git
+   git clone https://github.com/elcruzo/discord-bot-tengo.git
    ```
 
 3. Create a `.env` file in the project directory and add your Discord bot token:
