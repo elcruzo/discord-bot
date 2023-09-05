@@ -59,4 +59,6 @@ This Discord bot is open-source software licensed under the [MIT License](LICENS
 ## Author
 [ElCruzo](https://github.com/elcruzo/)
 
+---
+
 Enjoy using Tengo, YOU Discord bot :), and feel free to contribute to its development or customize it to suit your needs!
