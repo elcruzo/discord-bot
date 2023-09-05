@@ -1,6 +1,3 @@
-Certainly! Here's a README file for your Discord bot:
-
-
 # Discord Bot - Tengo
 
 Welcome to this repository containing the source for Tengo - Your Discord Bot!
